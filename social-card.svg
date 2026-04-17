@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d1117"/>
+
+  <!-- Subtle border -->
+  <rect x="1" y="1" width="1198" height="628" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+  <!-- Teal accent bar -->
+  <rect x="80" y="248" width="48" height="2" fill="#5eead4" opacity="0.6"/>
+
+  <!-- Name -->
+  <text x="80" y="340" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="88" font-weight="700" fill="#e6edf3" letter-spacing="-3">Mike Schierberl</text>
+
+  <!-- Tagline -->
+  <text x="80" y="402" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" fill="#8b949e" letter-spacing="0">Engineering leader. Data, finance, and platform at scale. Airbnb alum.</text>
+
+  <!-- Wordmark -->
+  <text x="80" y="96" font-family="'Menlo', 'Courier New', monospace" font-size="14" font-weight="600" fill="#5eead4" letter-spacing="3">MS</text>
+
+  <!-- Domain -->
+  <text x="1120" y="562" font-family="'Menlo', 'Courier New', monospace" font-size="14" fill="#8b949e" opacity="0.5" text-anchor="end" letter-spacing="1">schierberl.com</text>
+</svg>
